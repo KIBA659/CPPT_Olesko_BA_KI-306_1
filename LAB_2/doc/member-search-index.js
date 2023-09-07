@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"lab2_Olesko_KI_306","l":"lab2_Olesko_KI_306()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"lab2_Olesko_KI_306","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
