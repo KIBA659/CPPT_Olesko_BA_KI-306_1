@@ -1,0 +1,13 @@
+Type: AAd27O
+Version: 0.1
+Price: 100
+Count: 1
+Availability: true
+New count: 6
+New price: 300
+You bought 3 monitors. Current count: 3
+Type changed to: AAADC47
+Version changed to: DDF212
+This monitor has additional devices.
+You changed additional devices from mouse to loudspeakers
+Monitor is now unavailable.
