@@ -1,0 +1,16 @@
+
+ p off 
+
+ p on 1
+
+ p on 2
+
+ p off 
+TouchScreen  now  is false
+ m 
+TouchScreen  now  is true
+m3
+TouchScreen  now  is true
+m4
+TouchScreen  now  is false
+ m 
